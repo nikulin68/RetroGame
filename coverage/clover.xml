@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1677576121674" clover="3.2.0">
+  <project timestamp="1677576121675" name="All files">
+    <metrics statements="107" coveredstatements="107" conditionals="74" coveredconditionals="74" methods="22" coveredmethods="22" elements="203" coveredelements="203" complexity="0" loc="107" ncloc="107" packages="2" files="7" classes="7"/>
+    <package name="js">
+      <metrics statements="92" coveredstatements="92" conditionals="74" coveredconditionals="74" methods="19" coveredmethods="19"/>
+      <file name="Character.js" path="/Users/mac/Desktop/RetroGame-2/src/js/Character.js">
+        <metrics statements="17" coveredstatements="17" conditionals="8" coveredconditionals="8" methods="3" coveredmethods="3"/>
+        <line num="3" count="10" type="cond" truecount="2" falsecount="0"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="6" count="9" type="stmt"/>
+        <line num="7" count="9" type="stmt"/>
+        <line num="8" count="9" type="stmt"/>
+        <line num="9" count="9" type="stmt"/>
+        <line num="10" count="9" type="stmt"/>
+        <line num="11" count="9" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="21" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="22" count="2" type="stmt"/>
+        <line num="23" count="2" type="stmt"/>
+        <line num="24" count="2" type="stmt"/>
+        <line num="25" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="26" count="1" type="stmt"/>
+      </file>
+      <file name="PositionedCharacter.js" path="/Users/mac/Desktop/RetroGame-2/src/js/PositionedCharacter.js">
+        <metrics statements="6" coveredstatements="6" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+        <line num="5" count="6" type="cond" truecount="2" falsecount="0"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="9" count="5" type="cond" truecount="2" falsecount="0"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="13" count="4" type="stmt"/>
+        <line num="14" count="4" type="stmt"/>
+      </file>
+      <file name="data.js" path="/Users/mac/Desktop/RetroGame-2/src/js/data.js">
+        <metrics statements="10" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="2" count="4" type="stmt"/>
+        <line num="3" count="4" type="stmt"/>
+        <line num="4" count="4" type="stmt"/>
+        <line num="5" count="4" type="stmt"/>
+        <line num="6" count="4" type="stmt"/>
+        <line num="7" count="4" type="stmt"/>
+        <line num="8" count="4" type="stmt"/>
+        <line num="9" count="4" type="stmt"/>
+        <line num="10" count="4" type="stmt"/>
+        <line num="11" count="4" type="stmt"/>
+      </file>
+      <file name="utils.js" path="/Users/mac/Desktop/RetroGame-2/src/js/utils.js">
+        <metrics statements="59" coveredstatements="59" conditionals="62" coveredconditionals="62" methods="15" coveredmethods="15"/>
+        <line num="2" count="34" type="cond" truecount="2" falsecount="0"/>
+        <line num="4" count="32" type="cond" truecount="2" falsecount="0"/>
+        <line num="6" count="30" type="cond" truecount="2" falsecount="0"/>
+        <line num="8" count="28" type="cond" truecount="2" falsecount="0"/>
+        <line num="10" count="26" type="cond" truecount="4" falsecount="0"/>
+        <line num="12" count="22" type="cond" truecount="2" falsecount="0"/>
+        <line num="14" count="18" type="cond" truecount="4" falsecount="0"/>
+        <line num="16" count="14" type="cond" truecount="2" falsecount="0"/>
+        <line num="18" count="10" type="stmt"/>
+        <line num="22" count="5" type="cond" truecount="2" falsecount="0"/>
+        <line num="23" count="1" type="stmt"/>
+        <line num="26" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="27" count="2" type="stmt"/>
+        <line num="30" count="2" type="stmt"/>
+        <line num="34" count="1" type="stmt"/>
+        <line num="38" count="129" type="cond" truecount="6" falsecount="0"/>
+        <line num="39" count="128" type="stmt"/>
+        <line num="43" count="7" type="cond" truecount="4" falsecount="0"/>
+        <line num="44" count="6" type="stmt"/>
+        <line num="45" count="6" type="stmt"/>
+        <line num="46" count="6" type="stmt"/>
+        <line num="50" count="15" type="stmt"/>
+        <line num="53" count="15" type="cond" truecount="2" falsecount="0"/>
+        <line num="54" count="20" type="stmt"/>
+        <line num="57" count="15" type="cond" truecount="2" falsecount="0"/>
+        <line num="58" count="22" type="stmt"/>
+        <line num="61" count="15" type="cond" truecount="2" falsecount="0"/>
+        <line num="62" count="21" type="stmt"/>
+        <line num="65" count="15" type="cond" truecount="2" falsecount="0"/>
+        <line num="66" count="17" type="stmt"/>
+        <line num="68" count="80" type="stmt"/>
+        <line num="72" count="10" type="stmt"/>
+        <line num="74" count="10" type="stmt"/>
+        <line num="77" count="10" type="stmt"/>
+        <line num="79" count="7" type="stmt"/>
+        <line num="82" count="10" type="stmt"/>
+        <line num="84" count="12" type="stmt"/>
+        <line num="87" count="10" type="stmt"/>
+        <line num="89" count="11" type="stmt"/>
+        <line num="92" count="10" type="stmt"/>
+        <line num="94" count="9" type="stmt"/>
+        <line num="96" count="39" type="stmt"/>
+        <line num="97" count="256" type="stmt"/>
+        <line num="101" count="5" type="stmt"/>
+        <line num="104" count="6" type="cond" truecount="2" falsecount="0"/>
+        <line num="105" count="4" type="stmt"/>
+        <line num="107" count="6" type="cond" truecount="2" falsecount="0"/>
+        <line num="108" count="4" type="stmt"/>
+        <line num="112" count="5" type="stmt"/>
+        <line num="115" count="5" type="cond" truecount="2" falsecount="0"/>
+        <line num="116" count="3" type="stmt"/>
+        <line num="120" count="5" type="cond" truecount="2" falsecount="0"/>
+        <line num="121" count="3" type="stmt"/>
+        <line num="124" count="8" type="stmt"/>
+        <line num="125" count="31" type="stmt"/>
+        <line num="131" count="5" type="stmt"/>
+        <line num="135" count="5" type="stmt"/>
+        <line num="138" count="5" type="stmt"/>
+        <line num="143" count="5" type="stmt"/>
+      </file>
+    </package>
+    <package name="js.Characters">
+      <metrics statements="15" coveredstatements="15" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+      <file name="Bowerman.js" path="/Users/mac/Desktop/RetroGame-2/src/js/Characters/Bowerman.js">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+      </file>
+      <file name="Magician.js" path="/Users/mac/Desktop/RetroGame-2/src/js/Characters/Magician.js">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+      </file>
+      <file name="Swordsman.js" path="/Users/mac/Desktop/RetroGame-2/src/js/Characters/Swordsman.js">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="6" count="7" type="stmt"/>
+        <line num="7" count="7" type="stmt"/>
+        <line num="8" count="7" type="stmt"/>
+        <line num="9" count="7" type="stmt"/>
+        <line num="10" count="7" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
