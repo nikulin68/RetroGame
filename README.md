@@ -1,6 +1,7 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/1c0lw5glaorw3kf7/branch/main?svg=true)](https://ci.appveyor.com/project/nikulin68/diplom/branch/main)
+[![Build status](https://ci.appveyor.com/api/projects/status/yc77c95q0g8o5xqk/branch/main?svg=true)](https://ci.appveyor.com/project/nikulin68/retrogame/branch/main)
 
-![CI](https://github.com/nikulin68/diplom/actions/workflows/web.yml/badge.svg)
+![CI](https://github.com/nikulin68/RetroGame
+/actions/workflows/web.yml/badge.svg)
 # Дипломное задание к курсу «Продвинутый JavaScript». Retro Game
 
 ###### tags: `netology` `advanced js`
