@@ -37,6 +37,7 @@ module.exports = {
             loader: 'url-loader',
             options: {
               limit: 8192,
+              encoding: base64,
             },
           },
         ],
