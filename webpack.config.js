@@ -25,8 +25,8 @@ module.exports = {
         ],
       },
       {
-        test: /\.css$/i,
-        use: ['style-loader', 'css-loader'],
+        test: /\.css$/,
+        use: [MiniCssExtractPlugin.loader, 'css-loader'],
       },
       // Применяем url-loader для обработки изображений
       {
